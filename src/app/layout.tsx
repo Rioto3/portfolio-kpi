@@ -15,7 +15,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Portfolio KPI",
-  description: "portfolio kpi 取得プロジェクトじゃあ、",
+  description: "portfolio kpi 取得プロジェクトじゃあ、ほ",
 };
 
 
