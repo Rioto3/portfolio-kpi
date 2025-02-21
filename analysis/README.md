@@ -6,9 +6,8 @@ GA4とBigQueryを活用したデジタルポートフォリオのKPI分析環境
 ## フォルダ構成
 ```
 analysis/
-├── portfolio_analytics_dashboard.ipynb  # メイン分析ノートブック
-└── queries/                            # SQLクエリ集
-    └── kpi_queries.sql                 # KPI測定用クエリ
+└── portfolio_analytics_dashboard.ipynb  # メイン分析ノートブック
+
 ```
 
 ## セットアップ
@@ -39,9 +38,6 @@ jupyter notebook
 - アクセスパターン分析
 - KPI達成度の可視化
 
-## クエリカスタマイズ
-`queries/kpi_queries.sql` に基本的なクエリテンプレートを用意。
-必要に応じて修正・追加が可能。
 
 ## 注意事項
 - BigQueryの無料枠：10GB/月
